@@ -1,6 +1,6 @@
 # Ben uğur Şölen 👋
 
-Fronedn developer
+Frontend developer
 
 - 🔭 Nuxt js 
 - 🌱 Vue js
